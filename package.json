@@ -1,0 +1,16 @@
+{
+  "name": "pyodide",
+  "version": "0.1.0",
+  "description": "A packaged version of pyodide with a clear export",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajkachnic/pyodide.git"
+  },
+  "author": "Andrew Kachnic <ajkachnic@protonmail.com> (andrewkachnic.now.sh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajkachnic/pyodide/issues"
+  },
+  "homepage": "https://github.com/ajkachnic/pyodide#readme"
+}
