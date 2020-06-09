@@ -1,6 +1,6 @@
 {
   "name": "pyodide",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A packaged version of pyodide with a clear export",
   "main": "lib/index.js",
   "repository": {
